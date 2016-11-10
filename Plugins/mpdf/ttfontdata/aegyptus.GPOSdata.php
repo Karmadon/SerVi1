@@ -1,0 +1,3 @@
+<?php
+	$LuCoverage = array();
+?>
